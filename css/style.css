@@ -5,17 +5,13 @@
   font-weight: normal;
   font-style: normal;
 }
-/* =======================================================
-*
-* 	Template Style 
-*
-* ======================================================= */
+
 body {
   font-family: "Josefin Slab", Arial, serif;
-  font-weight: 400;
-  font-size: 16px;
+  font-weight: 500;
+  font-size: 17px;
   line-height: 1.7;
-  color: #828282;
+  color: #777676;
 }
 
 #page {
@@ -1390,5 +1386,3 @@ h1, h2, h3, h4, h5, h6, figure {
 .js .animate-box {
   opacity: 0;
 }
-
-/*# sourceMappingURL=style.css.map */
