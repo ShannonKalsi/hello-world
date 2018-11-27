@@ -567,7 +567,7 @@ h1, h2, h3, h4, h5, h6, figure {
 #fh5co-blog-popular,
 #fh5co-contact,
 #fh5co-footer {
-  padding: 0px;
+  padding: 7em 0;
   clear: both;
 }
 @media screen and (max-width: 768px) {
@@ -578,7 +578,7 @@ h1, h2, h3, h4, h5, h6, figure {
   #fh5co-blog-popular,
   #fh5co-contact,
   #fh5co-footer {
-    padding: 0px;
+    padding: 3em 0;
   }
 }
 
