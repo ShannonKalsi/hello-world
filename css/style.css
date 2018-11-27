@@ -916,7 +916,7 @@ h1, h2, h3, h4, h5, h6, figure {
   text-decoration: underline;
 }
 #fh5co-footer .fh5co-widget {
-  margin-bottom: 768px;
+  margin-bottom: 100%;
 }
 @media screen and (max-width: 768px) {
   #fh5co-footer .fh5co-widget {
